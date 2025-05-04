@@ -99,18 +99,29 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/github-snake.svg" />
 </picture>
 
+###  
+
+<br clear="both" />
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</div>
+
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph.svg">
-  <img alt="PacMan contribution graph"src="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
 
 <br clear="both">
 
