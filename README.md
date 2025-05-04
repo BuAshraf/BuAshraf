@@ -1,4 +1,4 @@
-<h3 align="center">I'm Muhammed Ashraf Alkulaib,<br><br> a passionate Computer Science graduate with hands-on experience in Python development, SQL, and backend systems. I love solving real-world problems through code and continuously expanding my skills in full-stack development.</h3>
+<h3 align="center">I'm Muhammed Ashraf Alkulaib,<br><br> a passionate Computer Science graduate with hands-on experience in Python development, SQL, JAVA, and backend systems. I love solving real-world problems through code and continuously expanding my skills in full-stack development.</h3>
 
 ###
 
