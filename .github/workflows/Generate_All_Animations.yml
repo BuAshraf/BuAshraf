@@ -1,0 +1,40 @@
+name: Generate All Animations
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    permissions: contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
