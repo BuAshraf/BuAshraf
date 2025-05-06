@@ -10,12 +10,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
@@ -90,14 +84,6 @@
 ###
 
 <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDR5aXRmaGw2cmU1MWQ0NGwyd2xkdm43YTUybDBkc2E2ZGFkZzUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BuAshraf/BuAshraf/output/github-snake.svg" />
-</picture>
 
 ###  
 
