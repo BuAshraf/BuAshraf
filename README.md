@@ -31,79 +31,72 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+  </tr>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       height="32"
-       alt="Java" />
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" />
+      <br><strong>Angular</strong>
+    </td>
+  </tr>
 
-  <img width="8" />
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" />
+      <br><strong>Spring Boot</strong>
+    </td>
+  </tr>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-       height="32"
-       alt="Spring Boot" />
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+       <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+  </tr> 
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
 
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-       height="32"
-       alt="Angular" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="32"
-       alt="React" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="32"
-       alt="TypeScript" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="32"
-       alt="JavaScript" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       height="32"
-       alt="MySQL" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-       height="32"
-       alt="Docker" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="32"
-       alt="Git" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       height="32"
-       alt="GitHub" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       height="32"
-       alt="HTML5" />
-
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       height="32"
-       alt="CSS3" />
-
-</div>
+</table>
 
 ###
 
